@@ -1,0 +1,28 @@
+.image-carousel {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .carousel-image {
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+  }
+  
+  .carousel-button {
+    width: 30px;
+    height: 30px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color: #f2f2f2;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    margin: 0 0.5rem;
+  }
+  
+  .carousel-button:hover {
+    background-color: #d3d3d3;
+  }
+  
