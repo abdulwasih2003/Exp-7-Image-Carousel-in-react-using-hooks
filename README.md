@@ -1,18 +1,18 @@
 # Exp-7 Image Carousel in react using hooks
-## AIM:
+## Aim:
 To create react app to develop Image Carousel using hooks.
-## PROCEDURE:
-### STEP 1:
+## Algorithm:
+### Step 1:
 Create react app by npm create-react-app.
-### STEP 2:
+### Step 2:
 Make changes to ImageCarousel.js where the Application works.
-### STEP 3:
+### Step 3:
 Include Style in the react using ImageCarousel.css and import it to ImageCarousel.js.
-### STEP 4:
+### Step 4:
 Import to App.js and there include ImageCarousel Component into App Component. 
-### STEP 5:
+### Step 5:
 Verify the output by running the Web-Layout in any web browser. 
-## PROGRAM:
+## Program:
 ### App.css
 ```css
 .app {
@@ -146,11 +146,11 @@ root.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 ```
-## OUTPUT:
+## Output:
 ![image](https://github.com/Karthikeyan21001828/MERN_EX07/assets/93427303/6c0ca85a-7b14-4676-b3a1-7bb5bfba1161)
 
 ![image](https://github.com/Karthikeyan21001828/MERN_EX07/assets/93427303/566cc15c-57f4-4d68-84e3-7b2f08e0024c)
 
 ![image](https://github.com/Karthikeyan21001828/MERN_EX07/assets/93427303/eb7360d9-222a-4431-ad0d-a6dfdbebc266)
-## RESULT:
+## Result:
 React app to develop a Image Carousel using hooks has been created and output has been verified.
